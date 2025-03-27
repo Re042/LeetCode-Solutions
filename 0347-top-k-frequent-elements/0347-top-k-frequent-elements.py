@@ -3,10 +3,7 @@ class Solution:
         freq = {}
         answer = []
         for x in nums:
-            if x in freq.keys():
-                freq[x] += 1
-            else:
-                freq[x] = 1
+            freq[x] = 1 + freq.get(x, 0)
         while k > 0:    
             m = 0
             for x, y in freq.items():
