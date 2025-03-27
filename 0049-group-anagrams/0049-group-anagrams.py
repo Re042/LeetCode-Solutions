@@ -5,10 +5,7 @@ class Solution:
             letters = [0] * 26
             for let in x:
                 letters[ord(let) - ord('a')] += 1
-            if tuple(letters) in anagrams:
-                anagrams[tuple(letters)].append(x)
-            else:
-                anagrams[tuple(letters)] = [x]
+            anagrams[tuple(letters)] = [x] + anagrams.get(tuple(letters), [])
         return list(anagrams.values())
 
 
