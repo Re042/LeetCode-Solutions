@@ -1,7 +1,7 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         n = len(speed)
-        cars = [[position[i], speed[i]] for i in range(n)]
+        cars = [(pos, sp) for pos, sp in zip(position, speed)]
         cars.sort(reverse = True)
         stack = (target - cars[0][0]) / cars[0][1]
         k = 1
