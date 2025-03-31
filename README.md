@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Re042/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Re042/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Re042/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Re042/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Re042/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Re042/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Re042/LeetCode-Solutions/tree/master/0883-car-fleet) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Re042/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
