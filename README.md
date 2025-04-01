@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Re042/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Re042/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Re042/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Re042/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Re042/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Re042/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Re042/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
