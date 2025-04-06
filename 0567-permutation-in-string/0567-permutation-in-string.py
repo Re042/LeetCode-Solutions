@@ -1,27 +1,23 @@
 from collections import defaultdict
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        let = defaultdict(int)
+        if len(s1) > len(s2):
+            return False
+        let = [0] * 26
         for x in s1:
-            let[x] += 1
+            let[ord(x) - ord('a')] += 1
         left = 0
         right = len(s1) - 1
-        while right < len(s2):
-            if s2[left] in let:
-                tmp = let.copy()
-                if tmp[s2[left]] != 1:
-                    tmp[s2[left]] -= 1
-                else:
-                    del tmp[s2[left]]
-                for i in range(left + 1, right+1):
-                    if s2[i] not in tmp:
-                        break
-                    if tmp[s2[i]] != 1:
-                        tmp[s2[i]] -= 1
-                    else:
-                        del tmp[s2[i]]
-                if not tmp:
-                    return True
+        tmp = [0] * 26
+        for i in range(left, right + 1):
+            tmp[ord(s2[i]) - ord('a')] += 1
+        if tmp == let:
+            return True
+        while right < len(s2) - 1:
+            tmp[ord(s2[left]) - ord('a')] -= 1
             left += 1
             right += 1
+            tmp[ord(s2[right]) - ord('a')] += 1
+            if tmp == let:
+                return True
         return False
