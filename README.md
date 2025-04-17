@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Re042/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Re042/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Re042/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Re042/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Re042/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Re042/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Re042/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Re042/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Re042/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Re042/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Re042/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Re042/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Re042/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Re042/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Re042/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Re042/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Re042/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Re042/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Re042/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Re042/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
