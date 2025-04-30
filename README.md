@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Re042/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Re042/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
